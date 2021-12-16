@@ -1,0 +1,24 @@
+form {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    padding: 10%;
+}
+
+.texto {
+    text-align: left;
+}
+
+body {
+    background-color:gainsboro;
+}
+
+.container-div{
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.icone {
+    color:purple;
+}
